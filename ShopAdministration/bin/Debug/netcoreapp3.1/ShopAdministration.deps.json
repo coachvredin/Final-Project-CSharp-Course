@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShopAdministration/1.0.0": {
+        "dependencies": {
+          "Shop": "1.0.0"
+        },
+        "runtime": {
+          "ShopAdministration.dll": {}
+        }
+      },
+      "Shop/1.0.0": {
+        "runtime": {
+          "Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopAdministration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

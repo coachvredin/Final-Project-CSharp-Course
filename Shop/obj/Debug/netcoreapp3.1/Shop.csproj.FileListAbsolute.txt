@@ -1,0 +1,139 @@
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.lref
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.g.resources
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.cache
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.lref
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.g.resources
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.g.resources
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Calle\OneDrive\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_Content.g.cs
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\starwarslogo.png
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\starwarslogo.png
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_Content.g.cs
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Products.csv
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Couponcodes.csv
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Couponcodes.csv
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Products.csv
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\AT-ACT_Walker.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Mauls_Lightsaber.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Cape.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Helm.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Lightsaber.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Death_Star.jpeg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Finalizer.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Kylo_Rens_Lightsaber.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Officer_Suite.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Shuttle.jpeg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Star-Destroyer.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper-blaster-rifle.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper-heavy-blaster.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper_gloves.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Storm_Trooper_Suite.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Supremacy.jpg
+C:\Users\Calle\OneDrive\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\TIE-Fighter.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\AT-ACT_Walker.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Mauls_Lightsaber.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Cape.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Helm.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Lightsaber.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Death_Star.jpeg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Finalizer.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Kylo_Rens_Lightsaber.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Officer_Suite.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Shuttle.jpeg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Star-Destroyer.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper-blaster-rifle.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper-heavy-blaster.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper_gloves.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Storm_Trooper_Suite.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Supremacy.jpg
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\TIE-Fighter.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\AT-ACT_Walker.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Mauls_Lightsaber.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Cape.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Helm.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Darth_Vader_Lightsaber.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Death_Star.jpeg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Finalizer.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Kylo_Rens_Lightsaber.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Officer_Suite.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Shuttle.jpeg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Star-Destroyer.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper-blaster-rifle.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper-heavy-blaster.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\stormtrooper_gloves.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Storm_Trooper_Suite.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\Supremacy.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\products\TIE-Fighter.jpg
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Images\starwarslogo.png
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Couponcodes.csv
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Products.csv
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_Content.g.cs
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.cache
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.lref
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.g.resources
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Calle\Dropbox\Studier\THskolan\Visual Studio\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache

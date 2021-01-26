@@ -1,0 +1,38 @@
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.lref
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.g.resources
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.g.resources
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\Admin\OneDrive\Visual Studio 2019\source\repos\Projektarbete\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache

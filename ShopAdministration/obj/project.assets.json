@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shop/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Shop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shop.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Shop/1.0.0": {
+      "type": "project",
+      "path": "../Shop/Shop.csproj",
+      "msbuildProject": "../Shop/Shop.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Shop >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Calle\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Calle\\Dropbox\\Studier\\THskolan\\Visual Studio\\Projektarbete\\ShopAdministration\\ShopAdministration.csproj",
+      "projectName": "ShopAdministration",
+      "projectPath": "C:\\Users\\Calle\\Dropbox\\Studier\\THskolan\\Visual Studio\\Projektarbete\\ShopAdministration\\ShopAdministration.csproj",
+      "packagesPath": "C:\\Users\\Calle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Calle\\Dropbox\\Studier\\THskolan\\Visual Studio\\Projektarbete\\ShopAdministration\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Calle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Calle\\Dropbox\\Studier\\THskolan\\Visual Studio\\Projektarbete\\Shop\\Shop.csproj": {
+              "projectPath": "C:\\Users\\Calle\\Dropbox\\Studier\\THskolan\\Visual Studio\\Projektarbete\\Shop\\Shop.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

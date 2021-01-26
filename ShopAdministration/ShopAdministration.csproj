@@ -1,0 +1,99 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Couponcodes.csv" />
+    <None Remove="Images\products\AT-ACT_Walker.jpg" />
+    <None Remove="Images\products\Darth_Mauls_Lightsaber.jpg" />
+    <None Remove="Images\products\Darth_Vader_Cape.jpg" />
+    <None Remove="Images\products\Darth_Vader_Helm.jpg" />
+    <None Remove="Images\products\Darth_Vader_Lightsaber.jpg" />
+    <None Remove="Images\products\Death_Star.jpeg" />
+    <None Remove="Images\products\Finalizer.jpg" />
+    <None Remove="Images\products\Kylo_Rens_Lightsaber.jpg" />
+    <None Remove="Images\products\Officer_Suite.jpg" />
+    <None Remove="Images\products\Shuttle.jpeg" />
+    <None Remove="Images\products\Star-Destroyer.jpg" />
+    <None Remove="Images\products\stormtrooper-blaster-rifle.jpg" />
+    <None Remove="Images\products\stormtrooper-heavy-blaster.jpg" />
+    <None Remove="Images\products\stormtrooper_gloves.jpg" />
+    <None Remove="Images\products\Storm_Trooper_Suite.jpg" />
+    <None Remove="Images\products\Supremacy.jpg" />
+    <None Remove="Images\products\TIE-Fighter.jpg" />
+    <None Remove="Images\starwarslogo.png" />
+    <None Remove="Products.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Couponcodes.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\AT-ACT_Walker.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Darth_Mauls_Lightsaber.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Darth_Vader_Cape.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Darth_Vader_Helm.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Darth_Vader_Lightsaber.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Death_Star.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Finalizer.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Kylo_Rens_Lightsaber.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Officer_Suite.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Shuttle.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Star-Destroyer.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\stormtrooper-blaster-rifle.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\stormtrooper-heavy-blaster.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\stormtrooper_gloves.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Storm_Trooper_Suite.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\Supremacy.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\products\TIE-Fighter.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\starwarslogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Products.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shop\Shop.csproj" />
+  </ItemGroup>
+
+</Project>
